@@ -1,10 +1,10 @@
 <h2 align="center">
 	<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhbckBW46dY5rdyr9U1chnH3j6KPga60YN6vWJsPBIL6W6gqaj7aCu3XMxEAGzhDjukWZFIu_QT1C4HTz-CHE900WmJEF95iMAEh1FGFA9KfaLvO6jI5A4jpFPv-XrUw0swE8EwMPS5OWz/s800/internet_modem_router.png" alt="JP IPoE Connect" width="200">
-	<br>LuCI interface for Japan IPoE Connect<br>
+	<br>日本IPoE接続用LuCIインターフェース<br>
 </h2>
-                                                                                                                                                   
+
 <p align="center">
-	LuCI interface for configuring OpenWRT to work with Japan IPoE (IPv4 over IPv6) services.
+	OpenWRTで日本のIPoE（IPv4 over IPv6）サービスを利用できるようにするためのLuCIインターフェース。
 </p>
 
 <p align="center">
@@ -17,50 +17,50 @@
 </p>
 
 <p align="center">
-	<b>ENGLISH</b>・<a href="README_ja.md">日本語</a>
+	<a href="README.md">ENGLISH</a>・<b>日本語</b>
 </p>
 
-## Background
+## 背景
 
 TODO
 
-## Prerequisites
+## 前提
 
 TODO
 
-## Installation
+## インストール手順
 
-### Release IPK
-
-TODO
-
-### Manual Build
+### リリースより
 
 TODO
 
-## Usage
+### 手動ビルド
 
 TODO
 
-## Considerations/Warnings
+## 利用方法
 
 TODO
 
-## Changelog
+## 注意
 
 TODO
 
-## References
+## 変更履歴
+
+TODO
+
+## 参照
 
 - [fakemakhk/openwrt-jp-ipoe](https://github.com/fakemanhk/openwrt-jp-ipoe)
-  - *Last Viewed: 2024 08 03*
+  - *最終閲覧日 2024年8月3日*
 - [MAP-E計算機](https://ipv4.web.fc2.com/map-e.html)
-  - *Last Viewed: 2024 08 03*
+  - *最終閲覧日 2024年8月3日*
 - [MAP-E: DHCPv6-PDにて取得したPREFIXからBashスクリプトにて各種パラメータを自動計算](benedicam-te.blogspot.com/2020/06/map-e-dhcpv6-pdprefixbash.html)
-  - *Last Viewed: 2024 08 03*
+  - *最終閲覧日 2024年8月3日*
 - [有線LANのイラスト](https://www.irasutoya.com/2020/03/lan.html)
-  - *Last Viewed: 2024 08 03*
+  - *最終閲覧日 2024年8月3日*
 
 # 
 
-*Last Updated: 2024 08 04*
+*最終更新日 2024年8月4日*
